@@ -1,17 +1,23 @@
 # flutter-2023
 
 Imagenes que componetes tenemos 
-# alertas
-[Image of mi_imagen.jpg alt="alertas.jpeg"]
-
-# animaciones
-[ ]
-# avatar
-
-# componentes
-
+## alertas
+![Alertas](imagenes/alertas.jpeg)
+## animaciones
+![Alertas](imagenes/animaciones.jpeg)
+## avatar
+![Alertas](imagenes/avatar.jpeg)
+## componentes
+![Alertas](imagenes/componentes.jpeg)
 # listas
+![Alertas](imagenes/listas.jpeg)
 
-# peliculas
+## slider
+![Alertas](imagenes/slider.jpeg)
 
-# slider
+## peliculas
+![Alertas](imagenes/peliculas.jpeg)
+
+
+## inputs
+![Alertas](imagenes/inputs.jpeg)
