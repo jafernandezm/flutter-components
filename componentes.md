@@ -4,35 +4,35 @@ Imagenes que componetes tenemos
 
 ## alertas
 <div>
-    <img src="imagenes/alertas.jpeg" alt="Alertas" style="width: 300px; height: 300px;">
+    <img src="imagenes/alertas.jpeg" alt="Alertas" width="300" height="500">
 </div>
 
 ## animaciones
 <div>
-    <img src="imagenes/animaciones.jpeg" alt="Animaciones" style="width: 300px; height: 300px;">
+    <img src="imagenes/animaciones.jpeg" alt="Animaciones" width="300" height="500">
 </div>
 
 ## avatar
 <div>
-    <img src="imagenes/avatar.jpeg" alt="Avatar" style="width: 300px; height: 300px;">
+    <img src="imagenes/avatar.jpeg" alt="Avatar" width="300" height="500">
 </div>
 
 ## componentes
 <div>
-    <img src="imagenes/componentes.jpeg" alt="Componentes" style="width: 300px; height: 300px;">
+    <img src="imagenes/componentes.jpeg" alt="Componentes" width="300" height="500">
 </div>
 
 ## listas
 <div>
-    <img src="imagenes/listas.jpeg" alt="Listas" style="width: 300px; height: 300px;">
+    <img src="imagenes/listas.jpeg" alt="Listas" width="300" height="500">
 </div>
 
 ## slider
 <div>
-    <img src="imagenes/slider.jpeg" alt="Slider" style="width: 300px; height: 300px;">
+    <img src="imagenes/slider.jpeg" alt="Slider" width="300" height="500">
 </div>
 
 ## peliculas
 <div>
-    <img src="imagenes/peliculas.jpeg" alt="Peliculas" style="width: 300px; height: 300px;">
+    <img src="imagenes/peliculas.jpeg" alt="Peliculas" width="300" height="500">
 </div>
