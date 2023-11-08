@@ -2,11 +2,12 @@
 
 Imagenes que componetes tenemos 
 # alertas
-[Image of mi_imagen.jpg alt="alertas.jpeg"]
-
+![Alertas](imagenes/alertas.jpeg)
 # animaciones
-[ ]
-# avatar
+
+![Alertas](imagenes/componentes.jpeg)
+
+# avatar a
 
 # componentes
 
