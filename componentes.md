@@ -1,23 +1,38 @@
 # flutter-2023
 
-Imagenes que componetes tenemos 
+Imagenes que componetes tenemos
+
 ## alertas
-![Alertas](imagenes/alertas.jpeg)
+<div>
+    <img src="imagenes/alertas.jpeg" alt="Alertas" style="width: 300px; height: 300px;">
+</div>
+
 ## animaciones
-![Alertas](imagenes/animaciones.jpeg)
+<div>
+    <img src="imagenes/animaciones.jpeg" alt="Animaciones" style="width: 300px; height: 300px;">
+</div>
+
 ## avatar
-![Alertas](imagenes/avatar.jpeg)
+<div>
+    <img src="imagenes/avatar.jpeg" alt="Avatar" style="width: 300px; height: 300px;">
+</div>
+
 ## componentes
-![Alertas](imagenes/componentes.jpeg)
-# listas
-![Alertas](imagenes/listas.jpeg)
+<div>
+    <img src="imagenes/componentes.jpeg" alt="Componentes" style="width: 300px; height: 300px;">
+</div>
+
+## listas
+<div>
+    <img src="imagenes/listas.jpeg" alt="Listas" style="width: 300px; height: 300px;">
+</div>
 
 ## slider
-![Alertas](imagenes/slider.jpeg)
+<div>
+    <img src="imagenes/slider.jpeg" alt="Slider" style="width: 300px; height: 300px;">
+</div>
 
 ## peliculas
-![Alertas](imagenes/peliculas.jpeg)
-
-
-## inputs
-![Alertas](imagenes/inputs.jpeg)
+<div>
+    <img src="imagenes/peliculas.jpeg" alt="Peliculas" style="width: 300px; height: 300px;">
+</div>
